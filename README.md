@@ -35,9 +35,8 @@ The result is a map-first observatory with a real GeoJSON choropleth of India, a
 
 **SoberMap** is built and maintained by:
 
-**Mohammad Zeeshan** — Founder & Engineering
+**Mohammad Zeeshan** - Engineer
 Eötvös Loránd University (ELTE), Budapest
-hdglit@inf.elte.hu  ·  github.com/m-zest
 
 Mission: make public data about alcohol, policy, and social harm in India legible, current, and usable — by journalists, civil society, researchers, and the public — without turning people into data points.
 
